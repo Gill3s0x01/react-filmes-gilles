@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <p align="center">
-    <img alt="React Filmes by Gilles" src="./src/assets/React-Filmes.png" width="250px" />
+    <img alt="React Filmes by Gilles" src="./public/React-Filmes.png" width="250px" />
   </p>
 
   <h3 align="center">
@@ -62,11 +62,11 @@ Nesse projeto tive como principal objetivo aprender a consumir uma API e e estud
 ## Preview
 
 <p size=3>
-  <img src="./src/assets/React-Filmes.png">
+  <img src="./public/React-Filmes.png">
 </p>
 
 <p size=3>
-  <img src="./src/assets/Sinopse-filme.png">
+  <img src="./public/Sinopse-filme.png">
 </p>
 
 
