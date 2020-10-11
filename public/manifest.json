@@ -1,0 +1,8 @@
+{
+  "short_name": "react-filmes-gilles",
+  "name": "|React Filmes by Gilles",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": " #c39be9"
+}
