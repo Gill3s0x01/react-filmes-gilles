@@ -12,7 +12,6 @@
       <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Gilles30/react-filmes-gilles?color=1db954">
       <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Gilles30/react-filmes-gilles?color=1db954">
       <img alt="Stars" src="https://img.shields.io/github/stars/Gilles30/react-filmes-gilles?color=1db954">
-      <img alt="Repository Size" src="https://img.shields.io/github/repo-size/react-filmes-gilles?color=1db954">
   </p>
 </h1>
 
@@ -21,6 +20,12 @@
   <a href="#books-requisitos">Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-começando">Começando</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
+
+## :computer:Tecnologias 
+React Native ⚛️ 🤖👾👽🐱‍🚀<br />
+Styled-Components 💅🏻 <br />
+Est-lint 👽🐱‍🐉</br>
+React Router DOM 🐱‍💻</br>
 
 ## :page_with_curl: Sobre
 React Filmes é uma aplicação criada a partir do treinamento feito pelo Matheus criador do Sujeito Programador, tecnologias ReactJS, React Native e Node.
